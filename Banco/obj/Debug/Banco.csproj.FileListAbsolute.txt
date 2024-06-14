@@ -1,0 +1,7 @@
+D:\DEV\2-C#\Uri Online Jugde\Banco\Banco\bin\Debug\Banco.exe.config
+D:\DEV\2-C#\Uri Online Jugde\Banco\Banco\bin\Debug\Banco.exe
+D:\DEV\2-C#\Uri Online Jugde\Banco\Banco\bin\Debug\Banco.pdb
+D:\DEV\2-C#\Uri Online Jugde\Banco\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+D:\DEV\2-C#\Uri Online Jugde\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+D:\DEV\2-C#\Uri Online Jugde\Banco\Banco\obj\Debug\Banco.exe
+D:\DEV\2-C#\Uri Online Jugde\Banco\Banco\obj\Debug\Banco.pdb
